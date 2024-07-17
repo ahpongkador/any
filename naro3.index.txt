@@ -1,0 +1,55 @@
+<html>
+  <head>
+  </head>
+  
+  <style>
+    body {
+      font-family: cursive;
+    }
+    
+   h3 {
+       color: blue;
+    } 
+  </style>
+  
+  <body>
+    <h1>Computer Networking</h1>
+    <ul>
+      <li><a href="">Home</a></li>
+      <li><a href="">Python Topics</a></li>
+      <li><a href="">Computing Networki6ng</a></li>
+    </ul>
+    
+    <h3>What is a Network?</h3>
+      <p>A network is when two or more computers are linked in order to exchange data and sharing resources.</p>
+    
+    <h3>What is an IP Adress?</h3>
+      <p>The unique indentifying number assigned to every device conneted to the internet.</p>
+    
+    <h3>Images and Explanations</h3>
+    <img src="https://www.pyramid.lt/images/uploader/pr/prieigos-taskas-4g-lte-cat-6-router-archer-mr500-wi-fi-24-ghz-5-ghz-300-mbps-867-mbps-tp-link.jpg", width="150", height="150">
+    <iframe width="195" height="150" src="https://www.youtube.com/embed/7uF-4nygJ38?si=t3P57OmxpgjQmIJz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <p>A router is a device that connects two or more packet-switched networks or subnetworks.</p>
+    <img src="https://www.netgear.com/zone1/cid/fit/1024x633/to/jpg/https/www.netgear.com/uk/media/Everest_WAX630_PDP_Hero-Image_tcm158-122583.png", width="150", height="150">
+    <iframe width="195" height="150" src="https://www.youtube.com/embed/PNg8EcmI7Ak?si=7ImhS3OXJBYzzo0B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <p>A wireless access point (WAP) is a networking device that allows wireless-capable devices to connect to a wired network.</p>
+    
+    <img src="https://media.rs-online.com/image/upload/v1570730114/F1218123-01.jpg", width="150", height="150">
+    <iframe width="195" height="150" src="https://www.youtube.com/embed/OvEu4owdjcg?si=cS62NzgAywUDHJUw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <p>A network switch connects devices in a network to one another and enables them to “speak” by exchanging data packets.</p>
+    
+    <h3>5G vs 2.4G WiFi Signal</h3>
+      <p>2.4 GHz WiFi will support up to 450 Mbps or 600 Mbps, while 5 GHz Wi-Fi will support up to 1300 Mbps.</p>
+    
+    <h3>How to Change WiFi Name and Password</h3>
+      <ol>
+      <li>Connect to your router.</li>
+      <li>Open a browser and enter your router's IP.</li>
+      <li>Log in with your router's username and password.</li>
+      <li>Find Wireless Settings.</li>
+      <li>Change the WiFi name (SSID).</li>
+      <li>Change the password.</li>
+      <li>Save your changes.</li>
+      <li>Reconnect your devices to the new WiFi network.</li>
+    </ol>
+  </body>
