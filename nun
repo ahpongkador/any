@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Football Game</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        header {
+            background-color: #004d00;
+            color: white;
+            padding: 20px;
+        }
+        .football-image {
+            width: 300px;
+            height: auto;
+        }
+        .scoreboard {
+            font-size: 2em;
+            background-color: #444;
+            color: white;
+            padding: 10px;
+            margin-top: 20px;
+            display: inline-block;
+        }
+        .teams {
+            display: flex;
+            justify-content: space-around;
+            margin-top: 30px;
+        }
+        .team {
+            background-color: #ffffff;
+            padding: 20px;
+            width: 150px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Welcome to the Football Game!</h1>
+</header>
+
+<div>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Football_Icon.svg" alt="Football" class="football-image">
+</div>
+
+<div class="scoreboard">
+    <p>Scoreboard</p>
+    <p>Team A 1 - 2 Team B</p>
+</div>
+
+<div class="teams">
+    <div class="team">
+        <h2>Team A</h2>
+        <p>Captain: John</p>
+        <p>Players: 11</p>
+    </div>
+    <div class="team">
+        <h2>Team B</h2>
+        <p>Captain: Mike</p>
+        <p>Players: 11</p>
+    </div>
+</div>
+
+</body>
+</html>
